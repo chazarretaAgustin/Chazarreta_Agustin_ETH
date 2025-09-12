@@ -67,7 +67,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			".git/Proyecto1/mensaje.sol": "Mensaje"
+			"Proyecto1/proyecto01.sol": "Mensaje"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -81,7 +81,7 @@
 		"remappings": []
 	},
 	"sources": {
-		".git/Proyecto1/mensaje.sol": {
+		"Proyecto1/proyecto01.sol": {
 			"keccak256": "0x70081433f4730ad8520b02408f7ee3ab103860dbb6a5f59692a6cf6531dca091",
 			"license": "MIT",
 			"urls": [
